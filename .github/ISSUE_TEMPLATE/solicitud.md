@@ -1,7 +1,7 @@
 ---
-name: Solicitar Kit Express
+name: Solicitar Mini Kit
 about: Cuéntame sobre tu negocio para preparar los mensajes de venta
-title: "Solicitud: Kit de ventas"
+title: "Solicitud: Mini Kit de ventas"
 labels: pedido
 assignees: ""
 ---

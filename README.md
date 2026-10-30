@@ -1,4 +1,4 @@
-# Kit Express de Ventas por WhatsApp — $40.000 COP
+# Mini Kit de Ventas por WhatsApp — $20.000 COP
 
 **[Ver la página del servicio](https://jeancamuca123.github.io/yomismo/)**
 
@@ -9,14 +9,14 @@ listos para copiar en WhatsApp.
 ## Qué recibes
 
 - Una descripción comercial de tu producto o servicio.
-- Cinco mensajes de venta para WhatsApp.
-- Cinco respuestas a preguntas u objeciones frecuentes.
-- Tres mensajes de seguimiento para clientes interesados.
+- Tres mensajes de venta para WhatsApp.
+- Tres respuestas a preguntas u objeciones frecuentes.
+- Un mensaje de seguimiento para clientes interesados.
 - Una ronda de ajustes sin costo.
 
 **Entrega:** dentro de 24 horas después de confirmar el encargo.
 
-**Precio:** $40.000 COP. Pago por Nequi al confirmar el encargo.
+**Precio:** $20.000 COP. Pago por Nequi al confirmar el encargo.
 
 **Garantía:** puedes solicitar una ronda de cambios durante las 48 horas
 siguientes a la entrega.
